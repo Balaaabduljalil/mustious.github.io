@@ -1,8 +1,8 @@
 ---
 layout: cv
-permalink: /assets/pdf/Mustapha_Abdullahi_CV.pdf
+permalink: /assets/pdf/Abduljalil_Resume.pdf
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: Mustapha_Abdullahi_CV.pdf
+cv_pdf: Abduljalil_Resume.pdf
 ---
