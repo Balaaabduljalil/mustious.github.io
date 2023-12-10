@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/Abduljalil_Resume.pdf
+permalink: /assets/pdf/Abduljalil_resume.pdf
 title: CV
 nav: true
 nav_order: 4
